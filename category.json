@@ -1,0 +1,29 @@
+[{
+    "name":"Learning",
+    "imageUrl":"../assets/Learning1.png",
+    "id":"0",
+    "screenName":"LearnScreen",
+    "url":""
+},
+{
+    "name":"Reading",
+    "imageUrl":"../assets/Reading.png",
+    "id":"2",
+    "screenName":"LearnScreen",
+    "url":""
+},
+{
+    "name":"Painting",
+    "imageUrl":"../assets/Painting.png",
+    "id":"3",
+    "screenName":"LearnScreen",
+    "url":""
+},
+{
+    "name":"Writing",
+    "imageUrl":"../assets/Writing.png",
+    "id":"4",
+    "screenName":"LearnScreen",
+    "url":""
+}
+]
